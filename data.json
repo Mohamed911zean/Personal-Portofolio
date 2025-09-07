@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Technical E-Commerce Website",
       "desc": "A full-featured e-commerce website built with React & Tailwind CSS (Frontend only).",
-      "image": "/undraw_online-shopping_hgf6.svg",
+      "image": "undraw_online-shopping_hgf6.svg",
       "demo": "https://mohamed911zean.github.io/ecommerce/",
       "code": "https://github.com/Mohamed911zean/ecommerce"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "title": "Portfolio Website",
       "desc": "A simple portfolio built with HTML, CSS, and JavaScript to showcase basic web skills.",
-      "image": "/undraw_portfolio-update_6bro.svg",
+      "image": "undraw_portfolio-update_6bro.svg",
       "demo": "https://mohamed911zean.github.io/myportofolio/",
       "code": "https://github.com/Mohamed911zean/myportofolio"
     },
@@ -20,7 +20,7 @@
         "id": 3,
         "title": "Watches E-Commerce Website",
         "desc": "A stylish e-commerce website for watches built with React & Tailwind CSS (Frontend only).",
-        "image": "/undraw_web-shopping_xd5k.svg",
+        "image": "undraw_web-shopping_xd5k.svg",
         "demo": "https://mohamed911zean.github.io/watches-ecommerce-project/",
         "code": "https://github.com/Mohamed911zean/watches-ecommerce-project"
     }
