@@ -7,7 +7,7 @@ import Home from './Home.jsx'
 import Projects from './Projects.jsx'
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/Personal-Portofolio'>
 
     <NavBar/>
 

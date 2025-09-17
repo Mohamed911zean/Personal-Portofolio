@@ -6,7 +6,7 @@ const Projects = () => {
   const [projects, setProjects] = useState([])
 
   useEffect(() => {
-    axios.get('/data.json')
+    axios.get('data.json')
     .then((res) => 
         setProjects(res.data.projects))
   } , [])

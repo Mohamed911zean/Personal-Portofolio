@@ -1,6 +1,8 @@
 import React from 'react'
 import Projects from './Projects.jsx'
 import ContactUs from './ContactUs.jsx'
+import { Instagram, Facebook, Github } from 'lucide-react';
+
 const Home = () => {
   return (
     <>
@@ -29,6 +31,33 @@ const Home = () => {
             <a href="#contact" className="btn btn-outline">Contact Me</a>
           </div>
 
+          <div className="flex gap-5 mt-6">
+            <a
+              href="https://www.instagram.com/mu7amed_el3shmawy/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="p-3 rounded-full border border-base-300 shadow-md hover:bg-pink-500 hover:text-white transition transform hover:scale-110 duration-300"
+            >
+              <Instagram size={22} />
+            </a>
+            <a
+              href="https://www.facebook.com/mohamed.zean.7393"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="p-3 rounded-full border border-base-300 shadow-md hover:bg-blue-600 hover:text-white transition transform hover:scale-110 duration-300"
+            >
+              <Facebook size={22} />
+            </a>
+            <a
+              href="https://github.com/Mohamed911zean"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="p-3 rounded-full border border-base-300 shadow-md hover:bg-gray-900 hover:text-white transition transform hover:scale-110 duration-300"
+            >
+              <Github size={22} />
+            </a>
+          </div>
+
           <ul className="mt-4 flex flex-wrap gap-3 text-sm text-base-content/70">
             <li className="badge badge-neutral">React</li>
             <li className="badge badge-neutral">Tailwind CSS</li>
@@ -41,7 +70,7 @@ const Home = () => {
         <div className="order-first md:order-none">
           <div className="relative mx-auto max-w-sm md:max-w-md">
             <img
-              src="/undraw_chill-guy-avatar_tqsm.svg"
+              src="undraw_chill-guy-avatar_tqsm.svg"
               alt="Mohamed — Frontend Developer"
               className="w-full rounded-box shadow-lg bg-base-100 p-4"
             />
@@ -74,7 +103,7 @@ const Home = () => {
       <div className="order-first md:order-none">
         <div className="relative mx-auto max-w-sm md:max-w-md">
           <img
-            src="/undraw_developer-avatar_f6ac.svg"
+            src="undraw_developer-avatar_f6ac.svg"
             alt="Mohamed — Frontend Developer"
             className="w-full rounded-box shadow-lg bg-base-100 p-4"
           />
