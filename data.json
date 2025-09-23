@@ -23,14 +23,22 @@
         "image": "undraw_web-shopping_xd5k.svg",
         "demo": "https://mohamed911zean.github.io/watches-ecommerce-project/",
         "code": "https://github.com/Mohamed911zean/watches-ecommerce-project"
-    }, 
+    },
     {
-      "id": 4,
-      "title": "Landing Page",
-      "desc": "A landing page built with React & Tailwind CSS (Frontend only).",
-      "image": "landing-page.svg",
-      "demo": "https://mohamed911zean.github.io/Landing-page/",
-      "code": "https://github.com/Mohamed911zean/Landing-page"
+        "id": 4,
+        "title": "Landing Page",
+        "desc": "A landing page built with React & Tailwind CSS (Frontend only).",
+        "image": "undraw_landing-page_tsx8.svg",
+        "demo": "https://mohamed911zean.github.io/Landing-page/",
+        "code": "https://github.com/Mohamed911zean/Landing-page"
+    },
+    {
+      "id": 5,
+      "title": "Product Landing Page",
+      "desc": "A product landing page built with React & Tailwind CSS (Frontend only).",
+      "image": "undraw_pricing-page_88g4.svg",
+      "demo": "https://mohamed911zean.github.io/Product-Landing-Page/",
+      "code": "https://github.com/Mohamed911zean/Product-Landing-Page"
     }
   ]
 }
