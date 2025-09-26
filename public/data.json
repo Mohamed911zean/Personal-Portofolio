@@ -39,6 +39,14 @@
       "image": "undraw_pricing-page_88g4.svg",
       "demo": "https://mohamed911zean.github.io/Product-Landing-Page/",
       "code": "https://github.com/Mohamed911zean/Product-Landing-Page"
+    },
+    {
+      "id": 6,
+      "title":"Weather App",
+      "desc":"A weather application that fetches real-time weather data using the OpenWeatherMap API, built with React and Tailwind CSS.",
+      "image": "undraw_weather_7n28.svg",
+      "demo":"https://mohamed911zean.github.io/weather-app/",
+      "code":"https://github.com/Mohamed911zean/weather-app"
     }
   ]
 }
