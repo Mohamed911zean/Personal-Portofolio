@@ -47,6 +47,14 @@
       "image": "undraw_weather_7n28.svg",
       "demo":"https://mohamed911zean.github.io/weather-app/",
       "code":"https://github.com/Mohamed911zean/weather-app"
+    },
+    {
+      "id": 7,
+      "title": "Zustand Notes Manager",
+      "desc": "A notes management application built with React and Zustand for state management, featuring add, edit, delete, and search functionalities.",
+      "image": "undraw_schedule_ry1w.svg",
+      "demo": "https://notes-manager-tau.vercel.app/",
+      "code": "https://github.com/Mohamed911zean/Notes-Manager"
     }
   ]
 }
