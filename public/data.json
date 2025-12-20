@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "id": 1,
+      "id": 7,
       "title": "Technical E-Commerce Website",
       "desc": "A full-featured e-commerce website built with React & Tailwind CSS (Frontend only).",
       "image": "undraw_online-shopping_hgf6.svg",
@@ -49,9 +49,9 @@
       "code":"https://github.com/Mohamed911zean/weather-app"
     },
     {
-      "id": 7,
-      "title": "Zustand Notes Manager",
-      "desc": "A notes management application built with React and Zustand for state management, featuring add, edit, delete, and search functionalities.",
+      "id": 1,
+      "title": "Productivity System",
+      "desc": "A React-based productivity system featuring tasks, Pomodoro, calendar planning, analytics, and authentication — focused on efficient time management and clean user experience.",
       "image": "undraw_schedule_ry1w.svg",
       "demo": "https://notes-manager-tau.vercel.app/",
       "code": "https://github.com/Mohamed911zean/Notes-Manager"
