@@ -1,21 +1,22 @@
 {
   "projects": [
     {
-      "id": 7,
+      "id": 1,
+      "title": "Productivity System",
+      "desc": "A React-based productivity system featuring tasks, Pomodoro, calendar planning, analytics, and authentication — focused on efficient time management and clean user experience.",
+      "image": "undraw_schedule_ry1w.svg",
+      "demo": "https://notes-manager-tau.vercel.app/",
+      "code": "https://github.com/Mohamed911zean/Notes-Manager"
+    },
+    {
+      "id": 2,
       "title": "Technical E-Commerce Website",
       "desc": "A full-featured e-commerce website built with React & Tailwind CSS (Frontend only).",
       "image": "undraw_online-shopping_hgf6.svg",
       "demo": "https://mohamed911zean.github.io/ecommerce/",
       "code": "https://github.com/Mohamed911zean/ecommerce"
     },
-    {
-      "id": 2,
-      "title": "Portfolio Website",
-      "desc": "A simple portfolio built with HTML, CSS, and JavaScript to showcase basic web skills.",
-      "image": "undraw_portfolio-update_6bro.svg",
-      "demo": "https://mohamed911zean.github.io/myportofolio/",
-      "code": "https://github.com/Mohamed911zean/myportofolio"
-    },
+
     {
         "id": 3,
         "title": "Watches E-Commerce Website",
@@ -39,22 +40,7 @@
       "image": "undraw_pricing-page_88g4.svg",
       "demo": "https://mohamed911zean.github.io/Product-Landing-Page/",
       "code": "https://github.com/Mohamed911zean/Product-Landing-Page"
-    },
-    {
-      "id": 6,
-      "title":"Weather App",
-      "desc":"A weather application that fetches real-time weather data using the OpenWeatherMap API, built with React and Tailwind CSS.",
-      "image": "undraw_weather_7n28.svg",
-      "demo":"https://mohamed911zean.github.io/weather-app/",
-      "code":"https://github.com/Mohamed911zean/weather-app"
-    },
-    {
-      "id": 1,
-      "title": "Productivity System",
-      "desc": "A React-based productivity system featuring tasks, Pomodoro, calendar planning, analytics, and authentication — focused on efficient time management and clean user experience.",
-      "image": "undraw_schedule_ry1w.svg",
-      "demo": "https://notes-manager-tau.vercel.app/",
-      "code": "https://github.com/Mohamed911zean/Notes-Manager"
     }
+
   ]
 }
