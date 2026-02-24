@@ -3,44 +3,42 @@
     {
       "id": 1,
       "title": "Productivity System",
-      "desc": "A React-based productivity system featuring tasks, Pomodoro, calendar planning, analytics, and authentication — focused on efficient time management and clean user experience.",
-      "image": "undraw_schedule_ry1w.svg",
+      "desc": "A notes manager app built with React and Vite. Supports creating, editing, and deleting notes with a clean UI.",
+      "image": "https://cdn-icons-png.flaticon.com/512/2920/2920349.png",
       "demo": "https://notes-manager-tau.vercel.app/",
-      "code": "https://github.com/Mohamed911zean/Notes-Manager"
+      "code": "https://github.com/Mohamed911zean"
     },
     {
       "id": 2,
-      "title": "Technical E-Commerce Website",
-      "desc": "A full-featured e-commerce website built with React & Tailwind CSS (Frontend only).",
-      "image": "undraw_online-shopping_hgf6.svg",
+      "title": "Tech E-Commerce",
+      "desc": "A fully responsive tech store built with HTML, CSS, and JavaScript. Features product listings, cart, and checkout flow.",
+      "image": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
       "demo": "https://mohamed911zean.github.io/ecommerce/",
       "code": "https://github.com/Mohamed911zean/ecommerce"
     },
-
     {
-        "id": 3,
-        "title": "Watches E-Commerce Website",
-        "desc": "A stylish e-commerce website for watches built with React & Tailwind CSS (Frontend only).",
-        "image": "undraw_web-shopping_xd5k.svg",
-        "demo": "https://mohamed911zean.github.io/watches-ecommerce-project/",
-        "code": "https://github.com/Mohamed911zean/watches-ecommerce-project"
+      "id": 3,
+      "title": "Watches Store",
+      "desc": "An elegant e-commerce landing page for a luxury watches brand. Clean layout with smooth animations.",
+      "image": "https://cdn-icons-png.flaticon.com/512/2784/2784461.png",
+      "demo": "https://mohamed911zean.github.io/watches-ecommerce-project/",
+      "code": "https://github.com/Mohamed911zean/watches-ecommerce-project"
     },
     {
-        "id": 4,
-        "title": "Landing Page",
-        "desc": "A landing page built with React & Tailwind CSS (Frontend only).",
-        "image": "undraw_landing-page_tsx8.svg",
-        "demo": "https://mohamed911zean.github.io/Landing-page/",
-        "code": "https://github.com/Mohamed911zean/Landing-page"
+      "id": 4,
+      "title": "Landing Page",
+      "desc": "A modern SaaS-style landing page with hero section, features, and call-to-action blocks.",
+      "image": "https://cdn-icons-png.flaticon.com/512/1006/1006771.png",
+      "demo": "https://mohamed911zean.github.io/Landing-page/",
+      "code": "https://github.com/Mohamed911zean/Landing-page"
     },
     {
       "id": 5,
       "title": "Product Landing Page",
-      "desc": "A product landing page built with React & Tailwind CSS (Frontend only).",
-      "image": "undraw_pricing-page_88g4.svg",
+      "desc": "A product-focused landing page with pricing, testimonials, and responsive design.",
+      "image": "https://cdn-icons-png.flaticon.com/512/1041/1041916.png",
       "demo": "https://mohamed911zean.github.io/Product-Landing-Page/",
       "code": "https://github.com/Mohamed911zean/Product-Landing-Page"
     }
-
   ]
 }
