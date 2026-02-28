@@ -129,7 +129,7 @@ const Home = () => {
 
     {/* Skills Grid */}
     <ul className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6 mt-10">
-      {["HTML", "CSS", "JavaScript", "React", "Tailwind CSS", "Vite", "Git", "GitHub"].map((skill) => (
+      {["HTML", "CSS", "JavaScript", "React", "Tailwind CSS", "Vite", "Git", "GitHub" ,"Zustand" , "TypeScript" ,"NextJs", "Rest Apis" ,"Firebase Auth & FireStore" , "API Integration" ,"Responsive Web Design"].map((skill) => (
         <li
           key={skill}
           className="px-4 py-3 rounded-xl border border-base-300 shadow-sm 
