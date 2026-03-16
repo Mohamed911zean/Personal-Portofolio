@@ -5,40 +5,56 @@
       "title": "Productivity System",
       "desc": "A notes manager app built with React and Vite. Supports creating, editing, and deleting notes with a clean UI.",
       "image": "https://cdn-icons-png.flaticon.com/512/2920/2920349.png",
-      "demo": "https://notes-manager-tau.vercel.app/",
-      "code": "https://github.com/Mohamed911zean"
+      "demo": "https://notes-manager-tau.vercel.app/"
     },
     {
       "id": 2,
       "title": "Tech E-Commerce",
       "desc": "A fully responsive tech store built with HTML, CSS, and JavaScript. Features product listings, cart, and checkout flow.",
       "image": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
-      "demo": "https://mohamed911zean.github.io/ecommerce/",
-      "code": "https://github.com/Mohamed911zean/ecommerce"
+      "demo": "https://mohamed911zean.github.io/ecommerce/"
     },
     {
       "id": 3,
       "title": "Watches Store",
       "desc": "An elegant e-commerce landing page for a luxury watches brand. Clean layout with smooth animations.",
       "image": "https://cdn-icons-png.flaticon.com/512/2784/2784461.png",
-      "demo": "https://mohamed911zean.github.io/watches-ecommerce-project/",
-      "code": "https://github.com/Mohamed911zean/watches-ecommerce-project"
+      "demo": "https://mohamed911zean.github.io/watches-ecommerce-project/"
     },
     {
       "id": 4,
       "title": "Landing Page",
       "desc": "A modern SaaS-style landing page with hero section, features, and call-to-action blocks.",
       "image": "https://cdn-icons-png.flaticon.com/512/1006/1006771.png",
-      "demo": "https://mohamed911zean.github.io/Landing-page/",
-      "code": "https://github.com/Mohamed911zean/Landing-page"
+      "demo": "https://mohamed911zean.github.io/Landing-page/"
     },
     {
       "id": 5,
       "title": "Product Landing Page",
       "desc": "A product-focused landing page with pricing, testimonials, and responsive design.",
       "image": "https://cdn-icons-png.flaticon.com/512/1041/1041916.png",
-      "demo": "https://mohamed911zean.github.io/Product-Landing-Page/",
-      "code": "https://github.com/Mohamed911zean/Product-Landing-Page"
+      "demo": "https://mohamed911zean.github.io/Product-Landing-Page/"
+    },
+    {
+      "id": 6,
+      "title": "Real Company Landing Page",
+      "desc" :"A modern real software services company landing page with hero section, features, and call-to-action blocks , testimonials , ContactUs.",
+      "image" : "./undraw_landing-page_tsx8.svg",
+      "demo": "https://landing-page-seven-puce-71.vercel.app/"
+    },
+    {
+      "id": 7,
+      "title": "Modern Ecommerce for Shopping",
+      "desc":"A Real Ecommerce store for shopping and fresh food in market",
+      "image":"./undraw_online-shopping_hgf6.svg",
+      "demo":"https://fresh-cart-eight-bay.vercel.app/"
+    },
+    {
+      "id":8,
+      "title": "Modern Cosmitics Ecommerce Store",
+      "desc": "A modern cosmitics and skincares ecommerce store ",
+      "image": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
+      "demo":"https://cosmics-umber.vercel.app/"
     }
   ]
 }

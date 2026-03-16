@@ -6,6 +6,9 @@ const categoryMap = {
   3: "E-Commerce",
   4: "Landing",
   5: "Landing",
+  6: "Landing",
+  7: "E-Commerce",
+  8: "E-Commerce"
 }
 
 const categories = ["All", "E-Commerce", "Tools", "Landing"]
@@ -84,8 +87,6 @@ const Projects = () => {
                 <div className="card-actions justify-end mt-2 gap-3">
                   <a href={project.demo} target="_blank" rel="noopener noreferrer"
                     className="btn btn-primary btn-sm rounded-full">Live Demo</a>
-                  <a href={project.code} target="_blank" rel="noopener noreferrer"
-                    className="btn btn-outline btn-sm rounded-full">Code</a>
                 </div>
               </div>
             </div>
